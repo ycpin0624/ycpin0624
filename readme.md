@@ -10,5 +10,5 @@ Here is some personal information about me:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycpin0624&theme=dracula)](https://github.com/ycpin0624)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycpin0624&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycpin0624&layout=compact^theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ycpin0624&repo=Taiwan-Railway-Inquiry-Bot&theme=buefy)](https://github.com/ycpin0624/Taiwan-Railway-Inquiry-Bot)
